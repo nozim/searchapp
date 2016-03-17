@@ -1,7 +1,8 @@
 ## Installation
 
-1. Install typesafe activator (0.3.18+)
-
+0. Make sure you have java 1.8 JRE and JDK installed
+1. Navigate into project root directory
+2. Run `activator run`
 
 ## Definition of "meeting"
 I'm assuming that both persons were within a distance of 3 meters in 1 minute time frame
@@ -14,5 +15,5 @@ I'm assuming that both persons were within a distance of 3 meters in 1 minute ti
 
 ## Things I could improve
 * Extract meeting definition and data source parameters into either command line arguments
-* Remove noize, maybe some primitive clustering algo
+* Remove noise, maybe some primitive clustering algo
 * Add grouping by floors, and run the search in parallel on each floor
