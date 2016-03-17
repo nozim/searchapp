@@ -1,4 +1,4 @@
-package com.example
+package com.m8vn3m
 
 object FindMeetingsApp extends SearchByRoutes {
 
