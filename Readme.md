@@ -10,10 +10,10 @@ I'm assuming that both persons were within a distance of 3 meters in 1 minute ti
 ## Bonuses
 * Detecting time and location of meet
 * No external database
-* Use of functional language,(in fact only one shared state is the DataSource implementation)
+* Use of functional language
 * Modular and testable components
 
 ## Things I could improve
 * Extract meeting definition and data source parameters into either command line arguments
-* Remove noise, maybe some primitive clustering algo
+* Remove noise, maybe some clustering algorithm
 * Add grouping by floors, and run the search in parallel on each floor
