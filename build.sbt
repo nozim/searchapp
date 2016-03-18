@@ -1,4 +1,4 @@
-name := """teralytics"""
+name := """searchapp"""
 
 version := "1.0"
 
