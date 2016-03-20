@@ -14,6 +14,5 @@ I'm assuming that both persons were within a distance of 3 meters in 1 minute ti
 * Modular and testable components
 
 ## Things I could improve
-* Extract meeting definition and data source parameters into either command line arguments
 * Remove noise, maybe some clustering algorithm
 * Add grouping by floors, and run the search in parallel on each floor
